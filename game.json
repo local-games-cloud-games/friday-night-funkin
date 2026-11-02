@@ -1,0 +1,14 @@
+{
+  "name": "Friday Night Funkin",
+  "author": "FunkinCrew",
+  "version": "0.8.6",
+  "description": "Juego de ritmo: sigue las flechas al compás de la música y supera cada semana. Incluye editor de niveles y soporte de mods.",
+  "cover": "cover.jpg",
+  "logo": "logo.webp",
+  "executable": "Games/Funkin.exe",
+  "archive": "game-comprimido.zip",
+  "mods": {
+    "available": true,
+    "folder": "Games/mods"
+  }
+}
